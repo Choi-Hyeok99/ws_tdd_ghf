@@ -2,7 +2,7 @@ package com.ll;
 
 import java.io.ByteArrayOutputStream;
 import java.util.Scanner;
-
+//ㅇㅇㅇ
 public class AppTestRunner {
     public static String run(String cmd) {
         cmd.stripIndent().trim();
