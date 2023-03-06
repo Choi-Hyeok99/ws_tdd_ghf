@@ -1,10 +1,7 @@
 package com.ll;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.InputStream;
-import java.util.Scanner;
 import java.io.*;
+import java.util.Scanner;
 
 public class TestUtil {
     // gen == generate 생성하다.
